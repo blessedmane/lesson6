@@ -1,0 +1,51 @@
+.threefirst{
+    background-color: rgb(88, 69, 211);
+    display: block;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    text-align: center;
+}
+.blockorange{
+    background-color: tomato;
+    text-align: center;
+    display: block;
+    margin: 0px;
+    padding: 100px;
+    border-radius: 2px;
+}
+.blocksalat, .blocklightblue{
+    text-align: center;
+    display: inline-flex;
+    margin: 0px;
+    padding-top: 100px;
+    padding-right: 410px;
+    padding-bottom: 100px;
+    padding-left: 412px;
+    border-radius: 2px;
+}
+.blocklightpurple, .blocklightyellow, .blocklightred{
+    text-align: center;
+    display: inline-block;
+    margin: 0px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-right: 257px;
+    padding-left: 257px;
+    border-radius: 2px;
+}
+.blocklightblue{
+    background-color: lightblue;
+}
+.blocksalat{
+    background-color: lightgreen;
+}
+.blocklightred{
+    background-color: rosybrown;
+}
+.blocklightyellow{
+    background-color: lightsalmon;
+}
+.blocklightpurple{
+    background-color: violet;
+}
